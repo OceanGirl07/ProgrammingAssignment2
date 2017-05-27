@@ -1,3 +1,21 @@
+## My notes from this assignment:
+
+## 
+## using the test matrices provided by Alan Berger on the forum, we can test this code.  
+## site is here:https://www.coursera.org/learn/r-programming/discussions/all/threads/ePlO1eMdEeahzg7_4P4Vvg
+## m1<-matrix(c(1/2,-1/4,-1,3/4),nrow=2,ncol=2)
+## myMatrix_object <- makeCacheMatrix(m1)
+## cacheSolve(myMatrix_object)
+## a second call to cacheSolve shows that the program uses cached data.
+
+## note: the article "Demystifying makeVector()" was very helpful for this assignment.
+## site is here: https://github.com/lgreski/datasciencectacontent/blob/master/markdown/rprog-breakingDownMakeVector.md
+
+
+
+
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
